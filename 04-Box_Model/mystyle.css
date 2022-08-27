@@ -1,0 +1,32 @@
+body {
+  background-image: url(./fondo.jpeg);
+  background-repeat: repeat-x;
+  border-color: red;
+}
+p {
+  color: red;
+  border: 4px dotted red;
+}
+h1 {
+  background-color: lightblue;
+  /* margin-left: 20px; */
+  /* margin: 20px 40px; */
+  margin: 0 auto;
+  text-align: center;
+  /* padding-top: 30px; */
+  padding: 40px 10px;
+  height: 100px;
+  width: 50%;
+}
+div {
+  width: 200px;
+  border: 2px solid red;
+  padding: 25px;
+  margin-left: 25px;
+}
+.intro {
+  width: 200px;
+  height: 70px;
+  font-size: 2em;
+  overflow: hidden;
+}
